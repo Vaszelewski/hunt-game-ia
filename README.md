@@ -1,6 +1,9 @@
 **Inteligência Artificial para Jogos:**
 **Trabalho Prático 1 - Máquina de Estados Finitos**
 
+Participantes:
+Eduardo Rodrigues da Silva, Everton Perez Vaszelewski
+
 Requisito:
 Visual Studio 2019 (Recomendável) Instalado.
 
